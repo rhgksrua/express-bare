@@ -1,0 +1,18 @@
+{
+  "name": "bareexpressseed",
+  "version": "0.0.1",
+  "description": "bare minimum expressjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Han Koh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
